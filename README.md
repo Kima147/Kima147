@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kima147
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 你好！我是鸢时卿Van1ty！
+- 是从三叶虫进化而来的高级生物。（？
+- 由爱恨、逻辑情绪、诗与音构成的复杂生命体。
+- 兴趣和向往方向无关联，也与性格无关。
+- 想要被爱。
 
 <!---
 Kima147/Kima147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
